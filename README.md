@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi!
+
+I'm a senior backend engineer turned graphics programmer. I'm interested in game engine development, real-time rendering and functional programming.  
+Learn more about me at https://jysandy.github.io/.
 
 <!--
 **jysandy/jysandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
